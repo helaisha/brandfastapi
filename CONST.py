@@ -1,0 +1,6 @@
+twitter_api_key = "sL1jQzcduQkwbtgDXwbvRlXx8"
+twitter_api_secret = "aMXbN3KcyRgYBHvWk6XtjnKaaOzGGSTYb0LfOmgG2l2aXFGHkn"
+linkedin_client_id = "78j9cr3ihfkfr5"
+linkedin_client_secret = "lUIDetsP5KaPhi2n"
+facebook_client_id = "139473610938396"
+facebook_client_secret = "6083e6489ac2c27b4efd67bd6fccd1ea"
